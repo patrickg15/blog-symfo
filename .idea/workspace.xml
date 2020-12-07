@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="ccc90e24-2fff-4aac-b4b8-07aa590dd679" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+=======
+    <list default="true" id="ccc90e24-2fff-4aac-b4b8-07aa590dd679" name="Default Changelist" comment="" />
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
     <list default="true" id="ccc90e24-2fff-4aac-b4b8-07aa590dd679" name="Default Changelist" comment="" />
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
@@ -15,7 +19,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+=======
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
@@ -31,12 +39,15 @@
   </component>
   <component name="Git.Settings">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+=======
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,7 +162,10 @@
   </component>
   <component name="PropertiesComponent">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="ChangesTree.GroupingKeys" value="" />
+=======
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -159,7 +173,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
@@ -174,8 +192,12 @@
       <option name="presentableId" value="Default" />
       <updated>1607220642833</updated>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1607220644227" duration="6280000" />
       <workItem from="1607325770462" duration="363000" />
+=======
+      <workItem from="1607220644227" duration="2676000" />
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
       <workItem from="1607220644227" duration="2676000" />
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
@@ -185,6 +207,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -210,6 +233,8 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+=======
+>>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 =======
 >>>>>>> 0d7f4afb46876b90fe43062058bad020853005fb
 </project>
